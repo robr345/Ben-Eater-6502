@@ -5,7 +5,7 @@
 <img src="BareBoard.jpg" title="Ben Eater 6502 no frills pcb">
 
 <p>
-  Use the provided Gerber file to order PCB's from EasyEDA or PCBWay. 5 PCB's cost about £10, delivery takes 2 weeks. The big         advantage of using a PCB is relialibilty, if you have followed along with Ben's videos you will know how easy it is to make         mistakes and also just how very easy to have problems because a wire gets displaced or becomes loose.
+  Use the provided Gerber file to order PCB's from EasyEDA or PCBWay. 5 PCB's cost about £10, delivery takes 2 weeks. The big         advantage of using a PCB is relialibilty, if you have followed along with Ben's videos you will know how easy it is to make         mistakes and also just how very easy it is to have problems because a wire gets displaced or becomes loose.
 </p>
 
 
